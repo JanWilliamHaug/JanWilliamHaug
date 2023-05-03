@@ -1,5 +1,6 @@
 # 💫 About Me:
-I have a passion for problem-solving and creating innovative solutions through code. <br>I enjoy working with a variety of programming languages and tools, constantly seeking to expand my skill set. <br>With experience in both front-end and back-end development, I am comfortable taking on a range of coding challenges. <br>I'm committed to staying up-to-date on the latest industry trends and advancements, and eager to apply this knowledge <br>to my work. Ultimately, I'm driven by a desire to make a meaningful impact through software engineering.<br>
+I am a software engineer with a passion for problem-solving and creating innovative solutions through code. I enjoy working with a variety of programming languages and tools, constantly seeking to expand my skill set. With experience in both front-end and back-end development, I am comfortable taking on a range of coding challenges. One of my current projects is [Anime Recommender](https://animerecommender.herokuapp.com/), a platform that offers personalized anime recommendations based on user preferences. I'm committed to staying up-to-date on the latest industry trends and advancements, and eager to apply this knowledge to my work. Ultimately, I'm driven by a desire to make a meaningful impact through software engineering.
+
 Check out my [Portfolio Website](https://janhaug.tech/)
 
 ## 🌐 Socials:
